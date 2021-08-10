@@ -129,8 +129,8 @@ Previsional info for wiring on AES Home Console
 |Pin 96  B[2]       |Blue 1k       |2H LS273    |```6```    |                 |
 |Pin 94  B[3]       |Blue 470      |2H LS273    |```9```    |                 |
 |Pin 93  B[4]       |Blue 220      |2H LS273    |```12```   |                 |
-|Pin 79  DAK        |DAK           |1H LS273    |```19```   |input to LS05?   |
-|Pin 99  SHA        |SHA           |3H LS05     |```1```    |input on 1,3 or 5|
+|Pin 79  DAK        |DAK           |1H LS273    |```19```   |                 |
+|Pin 99  SHA        |SHA           |3H LS05     |```4```    |150 Ohms to Green|
 |Pin 103 SYNC       |CLR           |H1 or 2H    |```1```    |                 |
 |Pin 114 audioLR    |SMP1          |YM3016      |```8```    |                 |
 |Pin 112 audioLR2   |SMP2          |YM3016      |```7```    |                 |
