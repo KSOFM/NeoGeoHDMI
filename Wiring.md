@@ -113,7 +113,7 @@ Previsional info for wiring on AES Home Console
 
 |FPGA Pin           |Name          |IC          |Pin        |Notes            |
 |-------------------|--------------|------------|-----------|-----------------|
-|Pin 64  NEOGEOCLK  |50MHz Clock   |Remove Xtl? |Right pin  |No Voltage Div   |
+|Pin 64  NEOGEOCLK  |50MHz Clock   |Remove Xtl? |Right pin  |B8? - No Voltage Div |
 |Pin 75  R[0]       |Red 3.9k      |1H LS273    |```6```    |                 |
 |Pin 92  R[1]       |Red 2.2k      |1H LS273    |```9```    |                 |
 |Pin 90  R[2]       |Red 1k        |1H LS273    |```12```   |                 |
