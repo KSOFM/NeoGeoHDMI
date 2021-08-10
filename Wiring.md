@@ -131,7 +131,7 @@ Previsional info for wiring on AES Home Console
 |Pin 93  B[4]       |Blue 220      |2H LS273    |```12```   |                 |
 |Pin 79  DAK        |DAK           |1H LS273    |```19```   |Alternate point, use LS05 pins 9,11 or 13|
 |Pin 99  SHA        |SHA           |3H LS05     |```3```    |Input to RGB collectors on pins 1,3 or 5|
-|Pin 103 SYNC       |CLR           |1H or 2H    |```1```    |                 |
+|Pin 103 SYNC       |CLR           |xx LS273    |```1```    |1H or 2H         |
 |Pin 114 audioLR    |SMP1          |YM3016      |```8```    |location - 4B    |
 |Pin 112 audioLR2   |SMP2          |YM3016      |```7```    |location - 4B    |
 |Pin 120 audioClk   |CLOCK         |YM3016      |```5```    |location - 4B    |
