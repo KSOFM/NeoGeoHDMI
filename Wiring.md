@@ -114,26 +114,26 @@ Previsional info for wiring on AES Home Console
 |FPGA Pin           |Name          |IC          |Pin        |Notes            |
 |-------------------|--------------|------------|-----------|-----------------|
 |Pin 64  NEOGEOCLK  |50MHz Clock   |Remove Xtl? |Right pin  |No Voltage Div   |
-|Pin 75  R[0]       |Red 3.9k      |1H LS273    |6          |                 |
-|Pin 92  R[1]       |Red 2.2k      |1H LS273    |9          |                 |
-|Pin 90  R[2]       |Red 1k        |1H LS273    |12         |                 |
-|Pin 87  R[3]       |Red 470       |1H LS273    |15         |                 |
-|Pin 100 R[4]       |Red 220       |1H LS273    |16         |                 |
-|Pin 74  G[0]       |Green 3.9k    |2H LS273    |15         |                 |
-|Pin 101 G[1]       |Green 2.2k    |2H LS273    |16         |                 |
-|Pin 86  G[2]       |Green 1k      |2H LS273    |19         |                 |
-|Pin 89  G[3]       |Green 470     |1H LS273    |2          |                 |
-|Pin 91  G[4]       |Green 220     |1H LS273    |5          |                 |
-|Pin 104 B[0]       |Blue 3.9k     |2H LS273    |2          |                 |
-|Pin 97  B[1]       |Blue 2.2k     |2H LS273    |5          |                 |
-|Pin 96  B[2]       |Blue 1k       |2H LS273    |6          |                 |
-|Pin 94  B[3]       |Blue 470      |2H LS273    |9          |                 |
-|Pin 93  B[4]       |Blue 220      |2H LS273    |12         |                 |
-|Pin 79  DAK        |DAK           |1H LS273    |19         |input to LS05?   |
-|Pin 99  SHA        |SHA           |3H LS05     |1          |input on 1,3 or 5|
-|Pin 103 SYNC       |CLR           |H1 or 2H    |1          |                 |
-|Pin 114 audioLR    |SMP1          |YM3016      |8          |                 |
-|Pin 112 audioLR2   |SMP2          |YM3016      |7          |                 |
-|Pin 120 audioClk   |CLOCK         |YM3016      |5          |                 |
-|Pin 118 audioData  |SD            |YM3016      |4          |                 |
+|Pin 75  R[0]       |Red 3.9k      |1H LS273    |```6```    |                 |
+|Pin 92  R[1]       |Red 2.2k      |1H LS273    |```9```    |                 |
+|Pin 90  R[2]       |Red 1k        |1H LS273    |```12```   |                 |
+|Pin 87  R[3]       |Red 470       |1H LS273    |```15```   |                 |
+|Pin 100 R[4]       |Red 220       |1H LS273    |```16```   |                 |
+|Pin 74  G[0]       |Green 3.9k    |2H LS273    |```15```   |                 |
+|Pin 101 G[1]       |Green 2.2k    |2H LS273    |```16```   |                 |
+|Pin 86  G[2]       |Green 1k      |2H LS273    |```19```   |                 |
+|Pin 89  G[3]       |Green 470     |1H LS273    |```2```    |                 |
+|Pin 91  G[4]       |Green 220     |1H LS273    |```5```    |                 |
+|Pin 104 B[0]       |Blue 3.9k     |2H LS273    |```2```    |                 |
+|Pin 97  B[1]       |Blue 2.2k     |2H LS273    |```5```    |                 |
+|Pin 96  B[2]       |Blue 1k       |2H LS273    |```6```    |                 |
+|Pin 94  B[3]       |Blue 470      |2H LS273    |```9```    |                 |
+|Pin 93  B[4]       |Blue 220      |2H LS273    |```12```   |                 |
+|Pin 79  DAK        |DAK           |1H LS273    |```19```   |input to LS05?   |
+|Pin 99  SHA        |SHA           |3H LS05     |```1```    |input on 1,3 or 5|
+|Pin 103 SYNC       |CLR           |H1 or 2H    |```1```    |                 |
+|Pin 114 audioLR    |SMP1          |YM3016      |```8```    |                 |
+|Pin 112 audioLR2   |SMP2          |YM3016      |```7```    |                 |
+|Pin 120 audioClk   |CLOCK         |YM3016      |```5```    |                 |
+|Pin 118 audioData  |SD            |YM3016      |```4```    |                 |
 				
